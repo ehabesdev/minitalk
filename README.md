@@ -17,16 +17,22 @@ Sunucu programı, gelen sinyalleri dinleyen bir sinyal işleyicisine sahiptir. A
 ## 🚀 Başlarken
 
 1. **Depoyu klonlayın:**
+
    ```bash
    git clone git@github.com:ehabesdev/minitalk.git
-2. **Programları derleyin:**
-   ```bash
+
+3. **Programları derleyin:**
+
+    ```bash
    make
    ```
-3. **Sunucuyu çalıştırın:**
+
+5. **Sunucuyu çalıştırın:**
+
    ```bash
    ./server
    ```
+
 Bu, sunucunun işlem kimliğini (PID) konsola yazdıracaktır.
 
 4. **İstemciyi çalıştırın:**
