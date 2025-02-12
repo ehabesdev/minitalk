@@ -6,14 +6,16 @@
 /*   By: ehabes <ehabes@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/26 19:24:13 by ehabes            #+#    #+#             */
-/*   Updated: 2024/10/26 19:28:01 by ehabes           ###   ########.fr       */
+/*   Updated: 2024/11/15 22:44:03 by ehabes           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include <unistd.h>
 
 void	ft_putendl_fd(char *s, int fd)
 {
+	if (!s)
+		return ;
 	while (*s)
 	{
 		write(fd, s++, 1);

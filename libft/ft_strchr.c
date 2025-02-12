@@ -6,11 +6,9 @@
 /*   By: ehabes <ehabes@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/13 12:48:33 by ehabes            #+#    #+#             */
-/*   Updated: 2024/10/28 21:43:05 by ehabes           ###   ########.fr       */
+/*   Updated: 2024/11/04 12:59:25 by ehabes           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include "libft.h"
 
 char	*ft_strchr(const char *s, int c)
 {

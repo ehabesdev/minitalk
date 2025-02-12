@@ -6,11 +6,12 @@
 /*   By: ehabes <ehabes@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/27 18:20:54 by ehabes            #+#    #+#             */
-/*   Updated: 2024/10/27 18:25:23 by ehabes           ###   ########.fr       */
+/*   Updated: 2024/11/06 12:50:30 by ehabes           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include <stdlib.h>
 
 static int	ft_size_itoa(int n)
 {

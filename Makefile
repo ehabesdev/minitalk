@@ -1,4 +1,4 @@
-.SILENT:
+
 
 NAME = server client
 
