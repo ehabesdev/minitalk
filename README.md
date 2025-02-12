@@ -33,7 +33,7 @@ Sunucu programı, gelen sinyalleri dinleyen bir sinyal işleyicisine sahiptir. A
    ./server
    ```
 
-Bu, sunucunun işlem kimliğini (PID) konsola yazdıracaktır.
+   Bu, sunucunun işlem kimliğini (PID) konsola yazdıracaktır.
 
 4. **İstemciyi çalıştırın:**
 
