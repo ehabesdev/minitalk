@@ -37,10 +37,10 @@ Bu, sunucunun işlem kimliğini (PID) konsola yazdıracaktır.
 
 4. **İstemciyi çalıştırın:**
 
-```bash
-./client <server_PID> <message>
-'<server_PID> yerine sunucunun gerçek PID sini ve <message> yerine göndermek istediğiniz mesajı yazın.'
-```
+   ```bash
+   ./client <server_PID> <message>
+   '<server_PID> yerine sunucunun gerçek PID sini ve <message> yerine göndermek istediğiniz mesajı yazın.'
+   ```
 # ✏️ Kullanım Örneği
 
 ```bash
