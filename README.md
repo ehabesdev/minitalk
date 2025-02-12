@@ -44,9 +44,9 @@ Sunucu programı, gelen sinyalleri dinleyen bir sinyal işleyicisine sahiptir. A
 # ✏️ Kullanım Örneği
 
 ```bash
-# Sunucuyu çalıştırın./server
+# Sunucuyu çalıştırın ./server
 # Çıktı: process id: 12345
-# İstemciyi çalıştırın./client 12345 "Merhaba dünya!"
+# İstemciyi çalıştırın ./client 12345 "Merhaba dünya!"
 ```
 Sunucu daha sonra alınan mesajı çıktı olarak verecektir:
 
